@@ -10,7 +10,7 @@ Datasets
 
 I utilized several datasets from [Kaggle](https://www.kaggle.com/) and other sources for this project. 
 
-Specifically, I focused on the [temperature](https://www.kaggle.com/datasets/mdazizulkabirlovlu/all-countries-temperature-statistics-1970-2021) dataset and the [disasters]((https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis) dataset. 
+Specifically, I focused on the [temperature](https://www.kaggle.com/datasets/mdazizulkabirlovlu/all-countries-temperature-statistics-1970-2021) dataset and the [disasters](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis) dataset. 
 
 To establish the connection between these datasets, I created a file in Google Sheets containing international country names and codes to facilitate table joins. Additionally, I created a CSV file named ["disaster_global_temp"](https://github.com/Krisztana/Climate-Change-and-it-s-consequences/blob/main/disaster_global_temp.csv) that combines relevant data from the temperature and disaster datasets.
 
