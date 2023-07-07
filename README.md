@@ -8,9 +8,9 @@ This project aims to explore the connection between the significant increase in 
 
 Datasets
 
-For this project, I utilized several datasets from [Kaggle](https://www.kaggle.com/) and other sources. 
+I utilized several datasets from [Kaggle](https://www.kaggle.com/) and other sources for this project. 
 
-Specifically, I focused on the [temperature](https://www.kaggle.com/datasets/mdazizulkabirlovlu/all-countries-temperature-statistics-1970-2021) dataset and the [disasters](https://github.com/Krisztana/Climate-Change-and-it-s-consequences/blob/main/disaster_global_temp.csv) dataset. 
+Specifically, I focused on the [temperature](https://www.kaggle.com/datasets/mdazizulkabirlovlu/all-countries-temperature-statistics-1970-2021) dataset and the [disasters]((https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)) dataset. 
 
 To establish the connection between these datasets, I created a file in Google Sheets containing international country names and codes to facilitate table joins. Additionally, I created a CSV file named ["disaster_global_temp"](https://github.com/Krisztana/Climate-Change-and-it-s-consequences/blob/main/disaster_global_temp.csv) that combines relevant data from the temperature and disaster datasets.
 
@@ -43,7 +43,7 @@ The following techniques and tools were employed in this project:
 
 In conclusion, the analysis highlights the following key findings:
 
-* CO2 Emissions and Global Warming: A strong correlation was observed between CO2 emissions and global warming, indicating that the release of CO2 contributes to the increase in global temperatures. Historical data, including the industrial revolution, and the rise of coal-fired power stations, further support this correlation.
+* CO2 Emissions and Global Warming: A strong correlation was observed between CO2 emissions and global warming, indicating that the release of CO2 contributes to the increase in global temperatures. Historical data, including the industrial revolution and the rise of coal-fired power stations, further support this correlation.
 
 * Global Warming and Natural Disasters: There is a notable correlation between global warming and the occurrence of storms and floods. As global temperatures rise, the frequency and intensity of these natural disasters tend to increase.
 
