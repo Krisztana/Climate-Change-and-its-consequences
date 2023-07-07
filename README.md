@@ -1,6 +1,6 @@
 ## Climate Change and its Consequences
 
-This is my final project at Le Wagon Data Analyst Bootcamp, where I focused on investigating the relationship between CO2 emissions, global warming, and their impact. The project was completed in a group of five, and this repository contains my individual contributions.
+This is my final project at Le Wagon Data Analyst Bootcamp, where we focused on investigating the relationship between CO2 emissions, global warming, and their impact. The project was completed in a group of five, and this repository contains my individual contributions.
 
 **Objective**
 
